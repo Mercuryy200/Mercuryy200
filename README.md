@@ -79,7 +79,7 @@ Production-grade RESTful API for income and expense tracking with role-based acc
 ### Currently
 
 - Graduating: Technique en Web et Applications (DEC) — Collège Ahuntsic, May 2026
-- Incoming: Bachelor of Computer Science — Concordia University, Fall 2026
+- Incoming: Bachelor of Computer Science — University of Montreal, Fall 2026
 - Learning: PyTorch, machine learning fundamentals, Spring Boot ecosystem
 - Languages: French (native), English (professional), Arabic (native), Korean (learning)
 - Tutoring: 15+ students weekly in Java, Python, JavaScript, SQL, Swift, and Kotlin
