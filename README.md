@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Software Development Student — Web, Mobile & Data Engineering</strong><br/>
   Building scalable full-stack applications and automated data pipelines.<br/>
-  Graduating from Collège Ahuntsic (May 2026) · Incoming Computer Science — Concordia University (Fall 2026)
+  Graduating from Collège Ahuntsic (May 2026) · Incoming Computer Science —  University of Montreal (Fall 2026)
 </p>
 
 <p align="center">
