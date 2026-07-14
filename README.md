@@ -1,9 +1,9 @@
 <h1 align="center">Rima Nafougui</h1>
 
 <p align="center">
-  <strong>Software Development Student — Web, Mobile & Data Engineering</strong><br/>
-  Building scalable full-stack applications and automated data pipelines.<br/>
-  Graduating from Collège Ahuntsic (May 2026) · Incoming Computer Science —  University of Montreal (Fall 2026)
+  <strong>Computer Science Student — Full-Stack, AI Integration & Data Engineering</strong><br/>
+  Building scalable full-stack applications, AI-powered pipelines, and automated data systems.<br/>
+  Computer Science — Université de Montréal 
 </p>
 
 <p align="center">
@@ -16,9 +16,28 @@
 
 ### About
 
-I am a final-year IT student specializing in Web and Mobile Programming, with a growing focus on Data Engineering and AI integration. My work combines frontend precision with backend architecture — from building serverless ML pipelines to designing semantic search systems.
+I'm heading into a Computer Science degree at Université de Montréal with a growing focus on AI/ML and data engineering. I currently lead technology at a non-profit, run a freelance development practice, and build full-stack and AI-integrated projects — from serverless ML pipelines to semantic search systems.
 
+---
 
+### Currently
+
+- Director of Technology at Careforall.org — infrastructure, SEO, security, and email delivery
+- Freelance full-stack developer — AI-integrated web and mobile applications
+- Bachelor of Computer Science — Université de Montréal
+- Languages: French (native), Arabic (native), English (professional), Korean (learning)
+---
+
+### Experience
+
+**Director of Technology** — Careforall.org (non-profit) · *Mar 2026 – Present*
+Own infrastructure, SEO, security, and email deliverability for the organization.
+
+**Freelance Developer** — Independent · *Mar 2026 – Present*
+Full-stack and AI-integrated web/mobile development for independent clients, specializing in RAG pipelines, vector search, and API integrations.
+
+**Programming Tutor** — Cégep Ahuntsic / Freelance · *May 2025 – May 2026*
+15+ students weekly across Java, Python, JavaScript, SQL, Swift, and Kotlin.
 
 ---
 
@@ -65,24 +84,6 @@ Production-grade RESTful API for income and expense tracking with role-based acc
 - 50% test coverage across 18+ unit and integration tests (JUnit 5, Mockito, MockMvc)
 - Deployed to Railway with automated CI/CD via GitHub Actions
 - Stack: Spring Boot 3, Java 21, PostgreSQL, JWT, Maven, JaCoCo
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rimanafougui&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-### Currently
-
-- Graduating: Technique en Web et Applications (DEC) — Collège Ahuntsic, May 2026
-- Incoming: Bachelor of Computer Science — University of Montreal, Fall 2026
-- Learning: PyTorch, machine learning fundamentals, Spring Boot ecosystem
-- Languages: French (native), English (professional), Arabic (native), Korean (learning)
-- Tutoring: 15+ students weekly in Java, Python, JavaScript, SQL, Swift, and Kotlin
 
 ---
 
